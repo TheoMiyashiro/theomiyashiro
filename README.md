@@ -1,6 +1,6 @@
-Hi, I'm Theo 👋
+# Hi, I'm Theo 👋
 
-About Me
+## About Me
 
 🎓 Computer Science student at UFPR
 
